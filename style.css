@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(85, 157, 198);
+}
+.name_of_objects{
+    color: rgb(241, 0, 72);
+    font-size: 20px;
+    font-family: cursive;
+    font-style: oblique;
+}
+#result_object_name{
+    color: rgb(146, 241, 234);
+    font-family: Verdana;
+}
+#result_object_accuracy{
+    color: rgb(125, 224, 125);
+    font-family: Verdana;
+}
